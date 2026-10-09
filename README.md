@@ -1,2 +1,2 @@
 # я умер
-![свинья бежит]()
+![свинья бежит](https://media.tenor.com/SM6briK1VvAAAAAj/medium-pig.gif)
