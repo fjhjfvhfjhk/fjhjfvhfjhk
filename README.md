@@ -1,6 +1,8 @@
 # я умер
 ![свинья бежит](https://media.tenor.com/SM6briK1VvAAAAAj/medium-pig.gif)![свинья бежит](https://media.tenor.com/SM6briK1VvAAAAAj/medium-pig.gif)![свинья бежит](https://media.tenor.com/SM6briK1VvAAAAAj/medium-pig.gif)![свинья бежит](https://media.tenor.com/SM6briK1VvAAAAAj/medium-pig.gif)
 
+**О бебе: та ничо я ни умею**
+
 <!--
 <div>
   <picture>
