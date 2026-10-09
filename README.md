@@ -1,5 +1,7 @@
 # я умер
 ![свинья бежит](https://media.tenor.com/SM6briK1VvAAAAAj/medium-pig.gif)![свинья бежит](https://media.tenor.com/SM6briK1VvAAAAAj/medium-pig.gif)![свинья бежит](https://media.tenor.com/SM6briK1VvAAAAAj/medium-pig.gif)![свинья бежит](https://media.tenor.com/SM6briK1VvAAAAAj/medium-pig.gif)
+
+<!--
 <div>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fjhjfvhfjhk/fjhjfvhfjhk/output/github-snake-dark.svg">
