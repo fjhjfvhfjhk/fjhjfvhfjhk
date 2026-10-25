@@ -4,6 +4,7 @@
 **О бебе: та ничо я ни умею**
 Помогает етот -> <img src="https://cdn.simpleicons.org/deepseek/4D6BFE" width="32" height="32" alt="DeepSeek">
 
+Мой сервер:
 [![Sovereignty](https://millida.net/banner/sovereignty.millida.host.png)](https://millida.net/j/sovereignty)
 <!--
 <div>
